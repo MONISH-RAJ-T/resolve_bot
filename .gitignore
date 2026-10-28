@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+data/
+.venv/
+venv/
+tests/
+testpostman.pdf
+test_postman.pdf

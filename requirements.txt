@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn>=0.27
+python-dateutil>=2.8
+python-dotenv>=1.0
+pydantic>=2.5
+langchain-core>=1.0,<2
+langchain-google-genai>=4.0,<5
+rank-bm25>=0.2.2
+httpx>=0.26        # only for tests/smoke_test.py (FastAPI TestClient)
